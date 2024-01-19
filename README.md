@@ -1,26 +1,28 @@
-# Automatidata 
-## objetivo 
-El objetivo principal de este proyecto conjunto entre Automatidata y la Comisión de Taxis y Limusinas de la ciudad de Nueva York (TLC) es desarrollar un sistema avanzado mediante técnicas de aprendizaje automático. Este sistema busca estimar con precisión las tarifas de los taxis antes de cada viaje, aprovechando una gran cantidad de datos recopilados de los conductores de taxis y limusinas.
+# Automatidata - Proyecto de Estimación de Tarifas de Taxis en NYC
 
-El enfoque principal implica la aplicación de algoritmos de aprendizaje automático para analizar y comprender patrones complejos en los datos recopilados. La meta es mejorar significativamente la experiencia de los usuarios al proporcionar estimaciones confiables y transparentes de las tarifas.
+## Objetivo
+El proyecto conjunto entre Automatidata y la Comisión de Taxis y Limusinas de la ciudad de Nueva York (TLC) tiene como objetivo principal desarrollar un sistema avanzado mediante técnicas de aprendizaje automático. Este sistema busca estimar con precisión las tarifas de los taxis antes de cada viaje, aprovechando una gran cantidad de datos recopilados de los conductores de taxis y limusinas.
 
-## contenido 
-### codigo 
--  **Examinar datos**
--  **Analisis exploratorio(EDA)**
--  **Analisis estadistico- prueba A/B**
--  **Regresion lineal**
--  **Modelo de aprendizaje automatico**
+## Contenido
 
-### resumen ejecutivo
-- **Estrategia PACE**
-- **Propuesta de proyecto de Automatidata**
-- **Resumen - prueba A/B**
-- **Resumen_ejecutivo _EDA**
-- **Resumen_ejecutivo_datos**
-- **Resumen_ejecutivo_regresion**
+### Código
+- **Examinar datos:** Exploración inicial de los datos recopilados.
+- **Análisis Exploratorio (EDA):** Exploración detallada de los datos para identificar patrones y tendencias.
+- **Análisis Estadístico - Prueba A/B:** Evaluación estadística utilizando la prueba A/B para validar la efectividad de ciertas estrategias.
+- **Regresión Lineal:** Implementación de un modelo de regresión lineal para analizar la relación entre variables.
+- **Modelo de Aprendizaje Automático:** Desarrollo y evaluación de un modelo de aprendizaje automático para la estimación de tarifas.
 
--Diccionario de los datos
+### Resumen Ejecutivo
+- **Estrategia PACE:** Descripción de la estrategia PACE (Preparar, Actuar, Comprobar, Evolucionar) utilizada en el proyecto.
+- **Propuesta de Proyecto de Automatidata:** Resumen de la propuesta inicial del proyecto, detallando los objetivos y enfoques.
+- **Resumen - Prueba A/B:** Resultados y conclusiones derivados de la prueba A/B realizada en el proyecto.
+- **Resumen Ejecutivo EDA:** Principales hallazgos y conclusiones del análisis exploratorio de datos.
+- **Resumen Ejecutivo Datos:** Información resumida sobre la calidad y la naturaleza de los datos utilizados en el proyecto.
+- **Resumen Ejecutivo Regresión:** Conclusiones derivadas del análisis de regresión lineal y su aplicabilidad en la estimación de tarifas.
 
+### Diccionario de los Datos
+- Detalles sobre las variables utilizadas en el proyecto, su significado y tipo.
+
+Este conjunto de documentos y análisis proporciona una visión integral del proyecto de Automatidata, desde la exploración de datos hasta la implementación de modelos avanzados, con el objetivo final de mejorar la precisión en la estimación de tarifas de taxis en la ciudad de Nueva York.
 
   
